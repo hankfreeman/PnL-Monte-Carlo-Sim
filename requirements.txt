@@ -4,3 +4,4 @@ numpy
 plotly
 python-dateutil
 matplotlib
+sklearn
