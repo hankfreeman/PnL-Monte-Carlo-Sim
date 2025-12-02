@@ -2,6 +2,6 @@ streamlit
 pandas
 numpy
 plotly
-python-dateutil
-matplotlib
-scikitlearn
+scikit-learn
+scipy
+openpyxl
